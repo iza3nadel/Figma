@@ -10,4 +10,4 @@ This project was created as part of a grant from the KNKiB student research grou
 https://www.figma.com/proto/eD2VBYJIRHSLlO6FbYQtfb/System-ankietyzacji-wyborczej?node-id=32-2&t=f3hKBgXDzKfV3nkw-1
 
 This project was completed as a university assignment. It is a functional web application designed to conduct exit poll surveys.
-The full project is available in the repository System-Akietyzacji-Wyborczej.
+The full project is available in the repository Online-Survey-System.
